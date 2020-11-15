@@ -5,4 +5,4 @@ Three different fingerprint based approaches have been used:
 <br> 1. Euclidean Distance
 <br> 2. Quantile Distibution
 <br> 3. Multivariate Guassian Distibution
-<br> The repository includes Colab Notebooks for the above mentioned approaches.
+<br> The repository includes Colab Notebooks for the above mentioned approaches. <b><i>Project_Report.pdf</i></b> has the details of data collection, algorithms and performance metrics used.
